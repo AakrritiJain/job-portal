@@ -1,5 +1,5 @@
  <div align="center">
-   <h1>Job Portal 🚀</h1>
+   <h1>Job Portal 🔍</h1>
    <strong>Job Portal for a Company</strong><br />
  </div>
 
