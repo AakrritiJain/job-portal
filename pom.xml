@@ -12,7 +12,7 @@
 	<artifactId>job</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>job</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Job Portal Demo</description>
 
 	<properties>
 		<java.version>1.8</java.version>
