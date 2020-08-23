@@ -1,0 +1,6 @@
+.candidate-card {
+    width: 400px;
+    margin-right: 114px;
+    box-shadow: 2px 2px 3px 3px rgba(0, 0, 0, 0.2);
+    padding: 5px 5px 5px 5px;
+}
