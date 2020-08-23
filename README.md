@@ -13,4 +13,8 @@ Project is setup with some mock data of user, job and applications to visiualize
   * Resolve maven dependency
   * include node modules by `npm install` command.
   * run `./mvnw spring-boot:run`. Application will be available at `http://localhost:8080/`.
+  
+## Architechture Design
+ * <strong><a href="https://github.com/AakrritiJain/job-portal/blob/master/src/main/resources/architechture/CurrentArchitechture.JPG">Current Architecture<a/></strong><br />
+ * <strong><a href="https://github.com/AakrritiJain/job-portal/blob/master/src/main/resources/architechture/FutureArchitechture.png">Future Architecture<a/></strong><br />
 
