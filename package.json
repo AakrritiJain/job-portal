@@ -1,5 +1,5 @@
 {
-  "name": "Job Portal",
+  "name": "job-portal",
   "version": "0.1.0",
   "description": "Job Portal build in ReactJS + Spring Data REST",
   "repository": {
@@ -9,7 +9,6 @@
   "author": "Aakriti Jain",
   "license": "Apache-2.0",
   "dependencies": {
-    "ajax": "0.0.4",
     "axios": "^0.20.0",
     "bootstrap": "^4.5.2",
     "css-loader": "^4.2.1",
@@ -22,7 +21,8 @@
     "style-loader": "^1.2.1"
   },
   "scripts": {
-    "watch": "webpack --watch -d --output ./target/classes/static/built/bundle.js"
+    "watch": "webpack --watch -d --output ./target/classes/static/built/bundle.js",
+    "build": "webpack -p"
   },
   "devDependencies": {
     "@babel/core": "^7.1.0",
