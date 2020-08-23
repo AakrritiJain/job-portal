@@ -35,7 +35,7 @@ public class JobRequestController {
     }
 
     @GetMapping(value = "/job-requests")
-    public List<JobRequest> get() {
+    public List<JobRequest> getAll() {
         return jobRequestService.findAll();
     }
 

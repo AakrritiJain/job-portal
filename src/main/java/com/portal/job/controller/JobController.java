@@ -7,8 +7,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-import static java.util.Objects.nonNull;
-
 @RestController
 public class JobController {
     @Autowired
