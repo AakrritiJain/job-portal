@@ -1,8 +1,9 @@
  <div align="center">
    <h1>Job Portal 🔍</h1>
-   <strong>Job Portal for a Company</strong><br />
+   <strong><a href="https://job-portal-aakrriti.herokuapp.com">https://job-portal-aakrriti.herokuapp.com<a/></strong><br />
  </div>
 
+This project is a Job Portal for a company.
 One can login as admin post a job vacancy, receives applications from candidates, can shortlist or reject a candidate.
 User can login and see job listing and can apply for a job vacancy. User can track the status of past applications applied as shortlisted or rejected.
 
